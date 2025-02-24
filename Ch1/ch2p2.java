@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ch2p2
+class ch1p2
 {
     public static void main(String args[])
     {
